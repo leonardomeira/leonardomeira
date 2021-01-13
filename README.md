@@ -1,4 +1,4 @@
-#### Olá, e seja bem-vindo(a)!
+## Olá, e seja bem-vindo(a)!
 ### Eu sou o Leonardo. Desenvolvedor web e mobile.
 
 Sou um programador JavaScript e atuo com ReactJS, React Native e Angular. Também tenho conhecimentos em SQL e MongoDB.
