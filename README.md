@@ -5,5 +5,5 @@ Sou um programador JavaScript e atuo com ReactJS, React Native e Angular. També
 Atualmente estou estagiando no Grupo CFN, auxiliando na manutenção de todo o sistema.
 
 ### Bom, é isto!
-Sinta-se à vontade para explorar os meus repositórios. Críticas e sugestões são muito bem-vindas!
+Sinta-se à vontade para explorar os meus repositórios. Críticas e sugestões são muito bem-vindas.
 Obrigado!
